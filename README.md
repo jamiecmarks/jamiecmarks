@@ -2,8 +2,8 @@
 
 # 🔬 Jamie Marks | Data Science + Computer Science
 
-[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamieacmarks)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://jamiemarks.dev)
+[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamie-a-c-marks)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://jamieacmarks.vercel.app/)
 
 </div>
 
@@ -228,14 +228,6 @@
 - **Data Processing**: ETL pipelines, data structure optimization, real-time processing systems
 - **Performance Engineering**: Code profiling, bottleneck analysis, scalability optimization
 
-</div>
-
----
-
-## 📈 Technical Focus Areas
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamiecmarks&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=C9D1D9&hide=html,css,scss"/>
 </div>
 
 ---
