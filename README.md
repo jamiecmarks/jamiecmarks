@@ -1,40 +1,36 @@
 <div align="center">
 
-# 👋 Hey there, I'm Jamie Marks!
+# 🔬 Jamie Marks | Data Science + Computer Science
 
-[![GitHub followers](https://img.shields.io/github/followers/jamiecmarks?label=Follow&style=social)](https://github.com/jamiecmarks)
-[![Profile Views](https://komarev.com/ghpvc/?username=jamiecmarks&color=blueviolet&style=flat-square)](https://github.com/jamiecmarks)
+[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamieacmarks)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://jamiemarks.dev)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 💡 Data Science + Computer Science Graduate | Problem Solver | AI & Software
 
-Computer Science & AI Developer passionate about building intelligent systems and solving complex computational problems. I specialize in algorithms, data structures, deep learning, and software engineering, with particular interests in game AI, natural language processing, and audio signal processing.
+**Data Science + Computer Science graduate** who bridges **statistical thinking** with **strong CS fundamentals**. I build end-to-end systems: from exploratory analysis and modeling to clean, efficient implementations that can ship.
+
+🎯 **Core Strengths:** Data analysis & modeling, algorithmic problem solving, system design, and writing production-quality code
+
+🔬 **Technical Focus:** Machine learning + experimentation, software architecture, and algorithmic efficiency
+
+💻 **Build Philosophy:** Write clean, efficient code; design robust systems; solve problems with elegant algorithmic solutions
+
+### ⭐ My edge: DS + CS
+
+- **Data Science**: turn messy data into signal (EDA, features, evaluation, iteration)
+- **Computer Science**: make it reliable + scalable (data structures, algorithms, systems thinking)
+- **Result**: I can take an idea from **notebook → application**, without losing rigor or engineering quality
 
 ---
 
-## 🎯 Featured Projects
+## 🚀 Key Projects & Achievements
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🐸 Freckers Agent</h3>
-      <div align="center">
-        <a href="https://github.com/jamiecmarks/Freckers-Agent">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-          <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=brain&logoColor=white" alt="AI" />
-        </a>
-        <p><strong>Game-Playing AI Agent</strong></p>
-        <p>Advanced minimax algorithm with alpha-beta pruning for the game Freckers. The agent plays at a high level and can beat human players!</p>
-        <p>
-          <a href="https://github.com/jamiecmarks/Freckers-Agent">
-            <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-          </a>
-        </p>
-      </div>
-    </td>
     <td width="50%" valign="top">
       <h3 align="center">🌌 Visual Word Embeddings</h3>
       <div align="center">
@@ -43,29 +39,17 @@ Computer Science & AI Developer passionate about building intelligent systems an
           <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
           <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
         </a>
-        <p><strong>3D Word Embedding Visualization</strong></p>
-        <p>Interactive space-like 3D visualization using TensorFlow embeddings and UMAP. A fun introduction to LLMs and word embeddings!</p>
+        <br/>
+        <a href="https://github.com/jamiecmarks/visual-word-embeddings">
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+          <img src="https://img.shields.io/badge/UMAP-4285F4?style=for-the-badge&logo=python&logoColor=white" alt="UMAP" />
+        </a>
+        <p><strong>3D Interactive ML Visualization Platform</strong></p>
+        <p>Built an immersive 3D web application that transforms complex word embeddings into navigable space environments. Users can explore semantic relationships between words in real-time.</p>
+        <p><em>Impact: Bridges the gap between advanced NLP theory and practical understanding</em></p>
         <p>
           <a href="https://github.com/jamiecmarks/visual-word-embeddings">
-            <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-          </a>
-        </p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔊 Surround Sound</h3>
-      <div align="center">
-        <a href="https://github.com/micha31r/surround-sound">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-          <img src="https://img.shields.io/badge/Audio-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Audio" />
-        </a>
-        <p><strong>AI Playlist Generator</strong></p>
-        <p>Custom Playlist Generator based off of user context (fed via image), mood and music preference.</p>
-        <p>
-          <a href="https://github.com/micha31r/surround-sound">
-            <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+            <img src="https://img.shields.io/badge/Explore_Demo-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
           </a>
         </p>
       </div>
@@ -73,12 +57,55 @@ Computer Science & AI Developer passionate about building intelligent systems an
     <td width="50%" valign="top">
       <h3 align="center">🏥 Healthlink</h3>
       <div align="center">
+        <a href="https://www.healthlinknow.tech/">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/NLP-FF6B6B?style=for-the-badge&logo=brain&logoColor=white" alt="NLP" />
+          <img src="https://img.shields.io/badge/Healthcare-00C851?style=for-the-badge&logo=heart&logoColor=white" alt="Healthcare" />
         </a>
-        <p><strong>Interactive Guitar Learning Tool</strong></p>
-        <p>A chatbot that reliably helps people in Victoria find the mental health service that they need.</p>
+        <p><strong>AI-Powered Mental Health Navigator</strong></p>
+        <p>Developed an intelligent chatbot that connects Victoria residents with appropriate mental health services. Processes natural language queries and matches users with resources based on their specific needs.</p>
+        <p><em>Impact: Addressing critical healthcare accessibility challenges in the community</em></p>
         <p>
-          <a href="(https://www.healthlinknow.tech/">
-            <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+          <a href="https://www.healthlinknow.tech/">
+            <img src="https://img.shields.io/badge/Visit_Healthlink-100000?style=for-the-badge&logo=web&logoColor=white" alt="View Project"/>
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🐸 Freckers Game AI</h3>
+      <div align="center">
+        <a href="https://github.com/jamiecmarks/Freckers-Agent">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=robot&logoColor=white" alt="AI" />
+          <img src="https://img.shields.io/badge/Algorithms-9C27B0?style=for-the-badge&logo=algorithm&logoColor=white" alt="Algorithms" />
+        </a>
+        <p><strong>Advanced Strategic AI Agent</strong></p>
+        <p>Engineered a competitive game AI using minimax algorithm with alpha-beta pruning optimizations. The agent demonstrates advanced strategic thinking and consistently outperforms human players.</p>
+        <p><em>Technical Achievement: Efficient tree search with sophisticated evaluation functions</em></p>
+        <p>
+          <a href="https://github.com/jamiecmarks/Freckers-Agent">
+            <img src="https://img.shields.io/badge/View_Implementation-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+          </a>
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎵 Surround Sound</h3>
+      <div align="center">
+        <a href="https://github.com/micha31r/surround-sound">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/Computer_Vision-FF9800?style=for-the-badge&logo=eye&logoColor=white" alt="Computer Vision" />
+          <img src="https://img.shields.io/badge/Audio_Processing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Audio Processing" />
+        </a>
+        <p><strong>Custom Playlist Generator</strong></p>
+        <p>Custom Playlist Generator based off of user context (fed via image), mood and music preference. The system analyzes visual context from user images to understand environment and emotional state.</p>
+        <p><em>Innovation: Multi-modal AI combining image analysis with music recommendation algorithms</em></p>
+        <p>
+          <a href="https://github.com/micha31r/surround-sound">
+            <img src="https://img.shields.io/badge/Explore_Project-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
           </a>
         </p>
       </div>
@@ -88,11 +115,66 @@ Computer Science & AI Developer passionate about building intelligent systems an
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🧠 Computer Science Fundamentals
+
+### **📊 Data Structures & Algorithms**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Data_Structures-4CAF50?style=for-the-badge&logo=tree&logoColor=white" alt="Data Structures" />
+  <img src="https://img.shields.io/badge/Algorithms-FF9800?style=for-the-badge&logo=algorithm&logoColor=white" alt="Algorithms" />
+  <img src="https://img.shields.io/badge/Complexity_Analysis-9C27B0?style=for-the-badge&logo=chart-line&logoColor=white" alt="Complexity Analysis" />
+</div>
+
+**Advanced Data Structures:** Trees (AVL, Red-Black, B-Trees), Graphs, Hash Tables, Heaps, Tries, Segment Trees  
+**Algorithm Design:** Dynamic Programming, Greedy Algorithms, Divide & Conquer, Graph Algorithms (Dijkstra, A\*, DFS/BFS)  
+**Complexity Analysis:** Big O notation, time/space optimization, algorithmic efficiency evaluation
+
+### **🏗️ Software Engineering & Architecture**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/System_Design-2196F3?style=for-the-badge&logo=sitemap&logoColor=white" alt="System Design" />
+  <img src="https://img.shields.io/badge/OOP-FF5722?style=for-the-badge&logo=object&logoColor=white" alt="OOP" />
+  <img src="https://img.shields.io/badge/Design_Patterns-607D8B?style=for-the-badge&logo=pattern&logoColor=white" alt="Design Patterns" />
+</div>
+
+**Software Architecture:** Modular design, scalable system architecture, API design principles  
+**Object-Oriented Design:** SOLID principles, design patterns (Factory, Observer, Strategy, Singleton)  
+**Code Quality:** Clean code practices, unit testing, debugging, performance optimization
+
+### **🔬 Computational Problem Solving**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Problem_Solving-E91E63?style=for-the-badge&logo=puzzle&logoColor=white" alt="Problem Solving" />
+  <img src="https://img.shields.io/badge/Mathematics-3F51B5?style=for-the-badge&logo=calculator&logoColor=white" alt="Mathematics" />
+  <img src="https://img.shields.io/badge/Logic-795548?style=for-the-badge&logo=brain&logoColor=white" alt="Logic" />
+</div>
+
+**Mathematical Foundations:** Discrete mathematics, linear algebra, probability theory, statistics  
+**Computational Thinking:** Breaking down complex problems, pattern recognition, abstraction  
+**Optimization:** Algorithm optimization, memory management, performance tuning
+
+---
+
+## 📊 Data Science Foundations
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Statistics-1E88E5?style=for-the-badge&logo=matrix&logoColor=white" alt="Statistics" />
+  <img src="https://img.shields.io/badge/Experimentation-6A1B9A?style=for-the-badge&logo=beaker&logoColor=white" alt="Experimentation" />
+  <img src="https://img.shields.io/badge/ML_Evaluation-00897B?style=for-the-badge&logo=checkmarx&logoColor=white" alt="ML Evaluation" />
+</div>
+
+**Data Analysis:** EDA, data cleaning, feature engineering, and clear communication through visuals  
+**Modeling:** supervised/unsupervised learning, embeddings, dimensionality reduction, model selection  
+**Rigor:** metrics-first evaluation, validation strategies, error analysis, and iteration loops
+
+---
+
+## 🛠️ Technical Stack & Tools
 
 <div align="center">
 
 ### Core Languages & Technologies
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -100,6 +182,7 @@ Computer Science & AI Developer passionate about building intelligent systems an
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Machine Learning & AI
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -108,87 +191,91 @@ Computer Science & AI Developer passionate about building intelligent systems an
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Web Development & Frameworks
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Data Science & Visualization
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Development Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-### Specialized Skills
-- **Computer Science Fundamentals**: Data Structures (Trees, Graphs, Hash Tables), Algorithms (Sorting, Searching, Dynamic Programming), Object-Oriented Design, Software Architecture
-- **Machine Learning**: Supervised/Unsupervised Learning, Neural Networks, CNNs, RNNs, Transformers, Model Optimization
-- **AI Techniques**: Minimax Algorithm, Alpha-Beta Pruning, Reinforcement Learning, Search Algorithms, Heuristics
-- **NLP & Language Models**: Word Embeddings, UMAP Dimensionality Reduction, Text Processing, Semantic Analysis
-- **Audio & Signal Processing**: Spatial Audio, HRTF, Music Information Retrieval, Audio Feature Extraction, Real-time DSP
-- **Data Analysis & Visualization**: Feature Engineering, Model Evaluation, Cross-Validation, PCA, Statistical Analysis
-- **Software Engineering**: Version Control (Git), Testing & Debugging, Code Optimization, API Design, System Design
+### **Core Computer Science Skills**
+
+- **Advanced Algorithms**: Graph algorithms (Dijkstra, A\*, Floyd-Warshall), Dynamic programming, Greedy algorithms, Backtracking
+- **Data Structure Implementation**: Custom hash tables, balanced trees, priority queues, graph representations
+- **System Programming**: Memory management, concurrency, parallel processing, low-level optimization
+- **Software Design**: Design patterns, SOLID principles, modular architecture, scalable system design
+- **Database Systems**: SQL optimization, indexing strategies, ACID properties, database design
+- **Computational Complexity**: Algorithm analysis, optimization techniques, performance benchmarking
+
+### **Specialized Technical Areas**
+
+- **Machine Learning Engineering**: Algorithm implementation, model optimization, data pipeline design
+- **AI Systems**: Search algorithms, game theory, intelligent agents, decision-making systems
+- **Full-Stack Development**: End-to-end application development, API design, database integration
+- **Data Processing**: ETL pipelines, data structure optimization, real-time processing systems
+- **Performance Engineering**: Code profiling, bottleneck analysis, scalability optimization
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Technical Focus Areas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamiecmarks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamiecmarks&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamiecmarks&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamiecmarks&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=C9D1D9" alt="Contribution Graph"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamiecmarks&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=C9D1D9&hide=html,css,scss"/>
 </div>
 
 ---
 
-## 🎯 What I'm Up To
+## 🎯 Professional Focus & Career Goals
 
-<details>
-<summary><b>🔭 Current Projects</b></summary>
-<br>
+### Technical Interests & Continuous Learning
 
-- 🤖 Building intelligent game-playing agents with advanced search algorithms
-- 🌐 Creating interactive visualizations for machine learning concepts
-- 🔊 Developing spatial audio processing and surround sound simulations
-- 💻 Implementing and optimizing data structures and algorithms
-- 📚 Deepening understanding of neural networks and transformers
+**Staying current with industry best practices and emerging technologies**
 
-</details>
+- Advanced algorithm design and computational complexity analysis
+- Distributed systems architecture and microservices design
+- High-performance computing and system optimization
+- Machine learning system design and MLOps practices
+- Database optimization and large-scale data processing
 
-<details>
-<summary><b>🌱 Currently Learning</b></summary>
-<br>
+### 🚀 Current Projects & Skill Development
 
-- Advanced Data Structures & Algorithms
-- Deep Learning & Neural Network Architectures
-- Natural Language Processing & Transformers
-- Computer Vision & Image Processing
-- Reinforcement Learning & Game Theory
-- System Design & Software Architecture
-- Full-stack development with modern frameworks
+**Actively building and learning:**
 
-</details>
+- **Algorithm Visualization Tools** - Interactive platforms for understanding complex algorithms
+- **Performance Benchmarking Suite** - Tools for analyzing and optimizing code performance
+- **Distributed System Prototypes** - Exploring scalable architecture patterns
+- **Open Source Contributions** - Contributing to algorithmic libraries and CS education tools
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Ready to Contribute to Your Team
+
+**I'm particularly interested in:**
+
+- 💻 **Software Engineer** roles focusing on fullstack development and algorithm implementation
+- 🤖 **AI/ML Engineer** opportunities combining CS fundamentals with intelligent systems
+- 🔬 **Research & Development** roles exploring cutting-edge computational problems
+- 🚀 **Technical challenges** requiring strong algorithmic thinking and system design skills
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jamiecmarks)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamie@jamiemarks.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamieacmarks)
 
 </div>
