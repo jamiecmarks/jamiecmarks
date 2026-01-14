@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-AI & Machine Learning Developer passionate about building intelligent systems and making complex concepts accessible. I specialize in deep learning, natural language processing, and game AI, while also exploring the intersection of music and technology through audio processing projects.
+Computer Science & AI Developer passionate about building intelligent systems and solving complex computational problems. I specialize in algorithms, data structures, deep learning, and software engineering, with particular interests in game AI, natural language processing, and audio signal processing.
 
 ---
 
@@ -57,16 +57,16 @@ AI & Machine Learning Developer passionate about building intelligent systems an
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎵 Music Genre Classifier</h3>
+      <h3 align="center">🔊 Surround Sound Simulation</h3>
       <div align="center">
-        <a href="https://github.com/jamiecmarks/genre_classifier">
-          <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-          <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML" />
+        <a href="https://github.com/jamiecmarks/surround-sound">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/Audio-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Audio" />
         </a>
-        <p><strong>Audio Feature-Based Classifier</strong></p>
-        <p>Implements PCA, KNN, SVM, Random Forest, and Neural Networks to classify music genres with a special focus on fusion song detection.</p>
+        <p><strong>3D Audio Spatial Processing</strong></p>
+        <p>Real-time surround sound simulation using spatial audio algorithms and HRTF (Head-Related Transfer Functions) for immersive 3D audio experiences.</p>
         <p>
-          <a href="https://github.com/jamiecmarks/genre_classifier">
+          <a href="https://github.com/jamiecmarks/surround-sound">
             <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
           </a>
         </p>
@@ -131,11 +131,13 @@ AI & Machine Learning Developer passionate about building intelligent systems an
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ### Specialized Skills
-- **Machine Learning**: Supervised/Unsupervised Learning, Neural Networks, CNNs, RNNs, Transformers
-- **AI Techniques**: Minimax Algorithm, Alpha-Beta Pruning, Reinforcement Learning
-- **NLP**: Word Embeddings, UMAP Dimensionality Reduction, Text Processing
-- **Audio Processing**: Music Information Retrieval, Audio Feature Extraction, Signal Processing
-- **Data Analysis**: Feature Engineering, Model Evaluation, Cross-Validation, PCA
+- **Computer Science Fundamentals**: Data Structures (Trees, Graphs, Hash Tables), Algorithms (Sorting, Searching, Dynamic Programming), Object-Oriented Design, Software Architecture
+- **Machine Learning**: Supervised/Unsupervised Learning, Neural Networks, CNNs, RNNs, Transformers, Model Optimization
+- **AI Techniques**: Minimax Algorithm, Alpha-Beta Pruning, Reinforcement Learning, Search Algorithms, Heuristics
+- **NLP & Language Models**: Word Embeddings, UMAP Dimensionality Reduction, Text Processing, Semantic Analysis
+- **Audio & Signal Processing**: Spatial Audio, HRTF, Music Information Retrieval, Audio Feature Extraction, Real-time DSP
+- **Data Analysis & Visualization**: Feature Engineering, Model Evaluation, Cross-Validation, PCA, Statistical Analysis
+- **Software Engineering**: Version Control (Git), Testing & Debugging, Code Optimization, API Design, System Design
 
 </div>
 
@@ -164,9 +166,10 @@ AI & Machine Learning Developer passionate about building intelligent systems an
 <summary><b>🔭 Current Projects</b></summary>
 <br>
 
-- 🤖 Building intelligent game-playing agents
+- 🤖 Building intelligent game-playing agents with advanced search algorithms
 - 🌐 Creating interactive visualizations for machine learning concepts
-- 🎵 Exploring audio processing and music information retrieval
+- 🔊 Developing spatial audio processing and surround sound simulations
+- 💻 Implementing and optimizing data structures and algorithms
 - 📚 Deepening understanding of neural networks and transformers
 
 </details>
@@ -175,10 +178,12 @@ AI & Machine Learning Developer passionate about building intelligent systems an
 <summary><b>🌱 Currently Learning</b></summary>
 <br>
 
-- Advanced Deep Learning techniques
-- Natural Language Processing
-- Computer Vision
-- Reinforcement Learning
+- Advanced Data Structures & Algorithms
+- Deep Learning & Neural Network Architectures
+- Natural Language Processing & Transformers
+- Computer Vision & Image Processing
+- Reinforcement Learning & Game Theory
+- System Design & Software Architecture
 - Full-stack development with modern frameworks
 
 </details>
