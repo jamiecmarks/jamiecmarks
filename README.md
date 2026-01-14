@@ -13,21 +13,7 @@
 
 ## 🚀 About Me
 
-```python
-class Jamie:
-    def __init__(self):
-        self.name = "Jamie C. Marks"
-        self.role = "AI & Machine Learning Developer"
-        self.interests = ["Artificial Intelligence", "Machine Learning", "Music", "Guitar"]
-        self.current_focus = ["Deep Learning", "NLP", "Game AI", "Audio Processing"]
-        self.fun_fact = "I build AI agents that play games AND apps that help me learn guitar! 🎸"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
-
-me = Jamie()
-me.say_hi()
-```
+AI & Machine Learning Developer passionate about building intelligent systems and making complex concepts accessible. I specialize in deep learning, natural language processing, and game AI, while also exploring the intersection of music and technology through audio processing projects.
 
 ---
 
@@ -107,29 +93,49 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Expertise
 
 <div align="center">
 
-### Languages
+### Core Languages & Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Pascal](https://img.shields.io/badge/Pascal-0080FF?style=for-the-badge&logo=delphi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frameworks & Libraries
+### Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Tools & Technologies
+### Web Development & Frameworks
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Data Science & Visualization
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+### Specialized Skills
+- **Machine Learning**: Supervised/Unsupervised Learning, Neural Networks, CNNs, RNNs, Transformers
+- **AI Techniques**: Minimax Algorithm, Alpha-Beta Pruning, Reinforcement Learning
+- **NLP**: Word Embeddings, UMAP Dimensionality Reduction, Text Processing
+- **Audio Processing**: Music Information Retrieval, Audio Feature Extraction, Signal Processing
+- **Data Analysis**: Feature Engineering, Model Evaluation, Cross-Validation, PCA
 
 </div>
 
@@ -177,18 +183,6 @@ me.say_hi()
 
 </details>
 
-<details>
-<summary><b>💡 Fun Facts</b></summary>
-<br>
-
-- 🎸 I'm learning guitar and built a game to help me memorize the fretboard!
-- 🐸 I created an AI that plays a checkers-like game with chain-jumping frogs
-- 🎨 I love making complex concepts visually accessible
-- 🔬 I'm passionate about understanding how AI models "think"
-- 🎵 Music + Machine Learning = My happy place
-
-</details>
-
 ---
 
 ## 🤝 Let's Connect!
@@ -196,21 +190,5 @@ me.say_hi()
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jamiecmarks)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=70&animation=twinkling&fontColor=FFFFFF"/>
-
-**⭐ If you like what you see, consider starring some repos!**
 
 </div>
