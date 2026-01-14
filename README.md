@@ -234,20 +234,24 @@
 
 ### **Core Computer Science Skills**
 
-- **Advanced Algorithms**: Graph algorithms (Dijkstra, A\*, Floyd-Warshall), Dynamic programming, Greedy algorithms, Backtracking
-- **Data Structure Implementation**: Custom hash tables, balanced trees, priority queues, graph representations
-- **System Programming**: Memory management, concurrency, parallel processing, low-level optimization
-- **Software Design**: Design patterns, SOLID principles, modular architecture, scalable system design
-- **Database Systems**: SQL optimization, indexing strategies, ACID properties, database design
-- **Computational Complexity**: Algorithm analysis, optimization techniques, performance benchmarking
+<ul style="list-style: none; padding-left: 0; margin: 0;">
+  <li><strong>Advanced Algorithms</strong>: Graph algorithms (Dijkstra, A*, Floyd-Warshall), Dynamic programming, Greedy algorithms, Backtracking</li>
+  <li><strong>Data Structure Implementation</strong>: Custom hash tables, balanced trees, priority queues, graph representations</li>
+  <li><strong>System Programming</strong>: Memory management, concurrency, parallel processing, low-level optimization</li>
+  <li><strong>Software Design</strong>: Design patterns, SOLID principles, modular architecture, scalable system design</li>
+  <li><strong>Database Systems</strong>: SQL optimization, indexing strategies, ACID properties, database design</li>
+  <li><strong>Computational Complexity</strong>: Algorithm analysis, optimization techniques, performance benchmarking</li>
+</ul>
 
 ### **Specialized Technical Areas**
 
-- **Machine Learning Engineering**: Algorithm implementation, model optimization, data pipeline design
-- **AI Systems**: Search algorithms, game theory, intelligent agents, decision-making systems
-- **Full-Stack Development**: End-to-end application development, API design, database integration
-- **Data Processing**: ETL pipelines, data structure optimization, real-time processing systems
-- **Performance Engineering**: Code profiling, bottleneck analysis, scalability optimization
+<ul style="list-style: none; padding-left: 0; margin: 0;">
+  <li><strong>Machine Learning Engineering</strong>: Algorithm implementation, model optimization, data pipeline design</li>
+  <li><strong>AI Systems</strong>: Search algorithms, game theory, intelligent agents, decision-making systems</li>
+  <li><strong>Full-Stack Development</strong>: End-to-end application development, API design, database integration</li>
+  <li><strong>Data Processing</strong>: ETL pipelines, data structure optimization, real-time processing systems</li>
+  <li><strong>Performance Engineering</strong>: Code profiling, bottleneck analysis, scalability optimization</li>
+</ul>
 
 </div>
 
