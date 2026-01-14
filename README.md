@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 Hey there, I'm Jamie C. Marks!
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+Enthusiast+%F0%9F%A4%96;Machine+Learning+Developer+%F0%9F%A7%A0;Music+Lover+%F0%9F%8E%B8;Creative+Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
+# 👋 Hey there, I'm Jamie Marks!
 
 [![GitHub followers](https://img.shields.io/github/followers/jamiecmarks?label=Follow&style=social)](https://github.com/jamiecmarks)
 [![Profile Views](https://komarev.com/ghpvc/?username=jamiecmarks&color=blueviolet&style=flat-square)](https://github.com/jamiecmarks)
@@ -57,32 +55,29 @@ Computer Science & AI Developer passionate about building intelligent systems an
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🔊 Surround Sound Simulation</h3>
+      <h3 align="center">🔊 Surround Sound</h3>
       <div align="center">
-        <a href="https://github.com/jamiecmarks/surround-sound">
+        <a href="https://github.com/micha31r/surround-sound">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
           <img src="https://img.shields.io/badge/Audio-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Audio" />
         </a>
-        <p><strong>3D Audio Spatial Processing</strong></p>
-        <p>Real-time surround sound simulation using spatial audio algorithms and HRTF (Head-Related Transfer Functions) for immersive 3D audio experiences.</p>
+        <p><strong>AI Playlist Generator</strong></p>
+        <p>Custom Playlist Generator based off of user context (fed via image), mood and music preference.</p>
         <p>
-          <a href="https://github.com/jamiecmarks/surround-sound">
+          <a href="https://github.com/micha31r/surround-sound">
             <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
           </a>
         </p>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎸 Guitar Note Game</h3>
+      <h3 align="center">🏥 Healthlink</h3>
       <div align="center">
-        <a href="https://github.com/jamiecmarks/guitar_note_game">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-          <img src="https://img.shields.io/badge/Audio-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Audio" />
         </a>
         <p><strong>Interactive Guitar Learning Tool</strong></p>
-        <p>A minimalist UI game that helps memorize the guitar fretboard through timed note challenges. Perfect for learning music theory!</p>
+        <p>A chatbot that reliably helps people in Victoria find the mental health service that they need.</p>
         <p>
-          <a href="https://github.com/jamiecmarks/guitar_note_game">
+          <a href="(https://www.healthlinknow.tech/">
             <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
           </a>
         </p>
